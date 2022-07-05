@@ -78,3 +78,5 @@ function square(sz)
         return nothing
     end
 end
+
+square(4)
